@@ -4,7 +4,7 @@
 
 ## 📘 Introduction
 
-The real estate industry generates vast volumes of data daily—from sales prices and property types to geographical trends and market performance over time. Understanding this data through analysis is critical for real estate investors, property developers, and policymakers to make data-driven decisions.  
+The real estate industry generates vast volumes of data daily from sales prices and property types to geographical trends and market performance over time. Understanding this data through analysis is critical for real estate investors, property developers, and policymakers to make data-driven decisions.  
 
 This project utilizes SQL to analyze a property transaction dataset and uncover actionable insights, such as price patterns, regional performance, and sales behavior across different time periods.
 
